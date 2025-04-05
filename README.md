@@ -18,16 +18,13 @@ The tools listed in this repository are intended for **legal and ethical purpose
 
 Click on a category below to explore the tools:
 
-1.  [🕵️ Scanning & Reconnaissance](./tools/01-scanning-reconnaissance.md)
-2.  [📡 Network Traffic Analysis](./tools/02-network-traffic-analysis.md)
-3.  [💥 Exploitation & Penetration Testing](./tools/03-exploitation-penetration-testing.md)
-4.  [🔑 Password Attacks](./tools/04-password-attacks.md)
-5.  [🌊 Denial of Service (DoS)](./tools/05-denial-of-service.md)
-6.  [🎣 Phishing](./tools/06-phishing.md)
-7.  [🔍 Digital Forensics](./tools/07-digital-forensics.md)
-8.  [🧠 Cyber Threat Intelligence (CTI)](./tools/08-cyber-threat-intelligence.md)
-9.  [🔒 Cryptography](./tools/09-cryptography.md)
-10. [🧩 Miscellaneous Tools & Standards](./tools/10-miscellaneous.md)
+1.  [🧭 Asset Discovery & Vulnerability Management](./tools/01-asset-discovery-vulnerability-management.md)
+2.  [📡 Network Security Monitoring](./tools/02-network-security-monitoring.md)
+3.  [🎣 Phishing Analysis & Defense](./tools/03-phishing-analysis-defense.md)
+4.  [🔍 Digital Forensics & Incident Response (DFIR)](./tools/04-digital-forensics-incident-response.md)
+5.  [🧠 Cyber Threat Intelligence (CTI)](./tools/05-cyber-threat-intelligence.md)
+6.  [🔒 Cryptography](./tools/06-cryptography.md)
+7.  [🧩 Miscellaneous Defensive Tools](./tools/07-miscellaneous-defensive-tools.md)
 
 ---
 
