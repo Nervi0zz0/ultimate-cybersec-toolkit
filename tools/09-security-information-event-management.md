@@ -10,7 +10,8 @@ Security Information and Event Management (SIEM) systems are a cornerstone of mo
 * [SIEM Core Concepts](#siem-core-concepts)
 * [Sigma Rules](#sigma-rules)
 * [Splunk Free](#splunk-free)
-* [Wazuh](#wazuh-siem-focus) ---
+* [Wazuh](#wazuh-siem-focus)
+---
 
 ## Elastic Stack / Elastic Security
 
