@@ -1,7 +1,10 @@
 # Awesome Cybersecurity Tools 🛡️✨
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md) [![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/ultimate-cybersec-toolkit.svg?style=flat-square)](https://github.com/Nervi0zz0/ultimate-cybersec-toolkit/commits/main)
+[![GitHub stars](https://img.shields.io/github/stars/Nervi0zz0/ultimate-cybersec-toolkit.svg?style=flat-square)](https://github.com/Nervi0zz0/ultimate-cybersec-toolkit/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Nervi0zz0/ultimate-cybersec-toolkit.svg?style=flat-square)](https://github.com/Nervi0zz0/ultimate-cybersec-toolkit/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](./CONTRIBUTING.md)
+
 Welcome to the **Awesome Cybersecurity Tools** guide! This repository is a curated collection of powerful and useful tools across various cybersecurity domains. Whether you're a seasoned professional, a student, or an enthusiast, this guide aims to be a practical reference for ethical hacking, penetration testing, digital forensics, threat intelligence, and more.
 
 Originally born from personal notes, this project strives to be a high-quality, community-driven resource.
