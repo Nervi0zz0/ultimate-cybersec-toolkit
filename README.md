@@ -25,6 +25,8 @@ Click on a category below to explore the tools:
 5.  [🧠 Cyber Threat Intelligence (CTI)](./tools/05-cyber-threat-intelligence.md)
 6.  [🔒 Cryptography](./tools/06-cryptography.md)
 7.  [🧩 Miscellaneous Defensive Tools](./tools/07-miscellaneous-defensive-tools.md)
+8.  [💻 Endpoint Security & Analysis](./tools/08-endpoint-security-analysis.md)  
+9.  [📊 SIEM & Log Management](./tools/09-security-information-event-management.md) 
 
 ---
 
